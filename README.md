@@ -1,4 +1,5 @@
 ## Hi, Im Rafael Almeida!
+Bachelor's degree in Data Science and Artificial Intelligence from Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) 🤖
 
 ## Get in touch:
 
