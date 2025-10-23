@@ -1,12 +1,11 @@
 ## Hi, Im Rafael Almeida!
----
+
 ## Get in touch:
 
 <a href="www.linkedin.com/in/rafael-almeida-b6540624a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael Almeida-white?logo=linkedin"></a>
 
 <a href="mailto:rafael.ai.developer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rafael.ai.developer@gmail.com-white?logo=gmail"></a>
 
----
 
 <h2> ⚙️ &nbsp;Tools I Like</h2>
 <p align="left">
